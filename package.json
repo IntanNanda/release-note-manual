@@ -1,5 +1,5 @@
 {
-  "name": "ci-release-note",
+  "name": "release-note-manual",
   "private": true,
   "type": "module",
   "scripts": {
