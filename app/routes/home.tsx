@@ -182,7 +182,7 @@
 // }
 
 const Home = () => {
-  return <div>Home Page</div>;
+  return <div>Home Page testing</div>;
 }
 
 export default Home;
